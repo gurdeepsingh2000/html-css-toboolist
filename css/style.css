@@ -86,8 +86,8 @@ header{
 
 
       .circle{
-        height: 25px;
-        width: 25px;
+        height: 5000px;
+        width: 40px;
         background-color: white;
         border:1px solid green;
         border-radius: 50%;
@@ -95,7 +95,12 @@ header{
 
       .dot-killer{
         list-style: none;
+        font-size: 30px;
       }
+
+
+
+
 
 
 
