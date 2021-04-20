@@ -80,10 +80,24 @@ header{
         border-radius: 1%;
         margin-left: 15%;
         margin-right: 10%;
+        font-family: 'Coda Caption', sans-serif;
+        padding: 70px 90px;
       }
 
       .corpo{
-        padding: 70px 90px;
+        
+      }
+
+      #Task{
+          font-size: 30px;
+      }
+
+      .circle{
+        height: 25px;
+        width: 25px;
+        background-color: white;
+        border:1px solid green;
+        border-radius: 50%;
       }
 
 
