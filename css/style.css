@@ -74,15 +74,17 @@ header{
         display: inline-block;
         background-color:white;
         width: 1500px;
-        height: 10%;  
+        height: 900px;  
         border: none white;
         box-sizing: border-box;
         border-radius: 1%;
-        margin-right:20%;
-        margin-left: 20%;
-        margin-bottom: 20%;
+        margin-left: 15%;
+        margin-right: 10%;
       }
-    }
+
+      .corpo{
+        padding: 70px 90px;
+      }
 
 
 
