@@ -1,6 +1,20 @@
-.immagine
+
+.immagine {
+    width: 100px;
+    vertical-align: middle;
+    padding-left:50px ;
+    padding-bottom:50px ;
+    padding-top:50px ;
+    margin-bottom: 1%;
 }
 
-.Testo{
-    font-size: 90px;
+
+.Testo {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 70px;
+    margin-top: 10px;
+    line-height: 70px;
+    margin-top: 6px;
+    font-family: 'Coda Caption', sans-serif;
 }
