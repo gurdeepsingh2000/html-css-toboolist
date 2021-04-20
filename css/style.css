@@ -35,33 +35,30 @@ header{
 
 main{
     background-color:white;
-        width: 1000px;
+        width: 1500px;
         height: 1000px;  
         border: none white;
         box-sizing: border-box;
         border-radius: 1%;
-        margin-top: 3%;
-        margin-left: 30%;
+        margin: 3% 20%;
       }
 }
 
 
 
 .bottone1{
-    color: white;
-    margin-left: 18%;
-    width: 7%;
-    padding: 18px 32px;
-    background-color: #47ADF1;
+    color: grey;
+    width: 18%;
+    background-color: white;
     border-radius: 8px;
     border-color: lightgrey;
+    ;
 }
 
 .bottone2{
     color: grey;
     margin-left: 5px;
-    width: 7%;
-    padding: 18px 32px;
+    width: 20%;
     background-color: white;
     border-radius: 8px;
     border-color: lightgrey;
