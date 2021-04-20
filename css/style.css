@@ -36,17 +36,19 @@ header{
 .contenitore1{
     background-color:white;
         width: 1500px;
-        height: 1000px;  
+        height: 140px; 
         border: none white;
-        box-sizing: border-box;
         border-radius: 1%;
-        margin: 3% 20%;
-        margin-left: 20$;
+        margin-top: 3%;
+        margin-bottom: 2px;
+        margin-left: 15%;
+        margin-right: 10%;
+
       }
 
       .bottone1{
           width: 8%;
-          padding: 15px;
+          padding: 18px;
           border-radius: 2%;
           border-color: grey;
           margin-left: 5%;
@@ -58,12 +60,28 @@ header{
 
       .bottone2{
         width: 8%;
-        padding: 15px;
+        padding: 18px;
         border-radius: 2%;
         border-color: grey;
         margin-left: 2px;
+        background-color: white;
         border-radius: 10%;
         border-color: lightgrey;
+        color: grey;
+    }
+
+    .contenitore2{
+        display: inline-block;
+        background-color:white;
+        width: 1500px;
+        height: 10%;  
+        border: none white;
+        box-sizing: border-box;
+        border-radius: 1%;
+        margin-right:20%;
+        margin-left: 20%;
+        margin-bottom: 20%;
+      }
     }
 
 
