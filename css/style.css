@@ -84,13 +84,6 @@ header{
         padding: 70px 90px;
       }
 
-      .corpo{
-        
-      }
-
-      #Task{
-          font-size: 30px;
-      }
 
       .circle{
         height: 25px;
@@ -99,6 +92,12 @@ header{
         border:1px solid green;
         border-radius: 50%;
       }
+
+      .dot-killer{
+        list-style: none;
+      }
+
+
 
 
 
