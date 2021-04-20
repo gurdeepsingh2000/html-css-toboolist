@@ -25,7 +25,7 @@
     font-family: 'Coda Caption', sans-serif;
 }
 
-html{
+body{
     background-color: #f6f8f9;
 }
 
@@ -33,17 +33,24 @@ header{
     background-color: white;
 }
 
-.sfondo{
-    width: 80%;
-    margin: 0;
-    background-color: white;
-    margin-left: 5%;
+main{
+    background-color:white;
+        width: 1000px;
+        height: 1000px;  
+        border: none white;
+        box-sizing: border-box;
+        border-radius: 1%;
+        margin-top: 3%;
+        margin-left: 30%;
+      }
 }
+
+
 
 .bottone1{
     color: white;
     margin-left: 18%;
-    width: 8%;
+    width: 7%;
     padding: 18px 32px;
     background-color: #47ADF1;
     border-radius: 8px;
@@ -53,10 +60,12 @@ header{
 .bottone2{
     color: grey;
     margin-left: 5px;
-    width: 8%;
+    width: 7%;
     padding: 18px 32px;
     background-color: white;
     border-radius: 8px;
     border-color: lightgrey;
     ;
 }
+
+
