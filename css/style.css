@@ -33,7 +33,7 @@ header{
     background-color: white;
 }
 
-main{
+.contenitore1{
     background-color:white;
         width: 1500px;
         height: 1000px;  
@@ -41,28 +41,33 @@ main{
         box-sizing: border-box;
         border-radius: 1%;
         margin: 3% 20%;
+        margin-left: 20$;
       }
-}
+
+      .bottone1{
+          width: 8%;
+          padding: 15px;
+          border-radius: 2%;
+          border-color: grey;
+          margin-left: 5%;
+          background-color: lightskyblue;
+          color: white;
+          border-radius: 10%;
+          border-color: lightgrey;
+      }
+
+      .bottone2{
+        width: 8%;
+        padding: 15px;
+        border-radius: 2%;
+        border-color: grey;
+        margin-left: 2px;
+        border-radius: 10%;
+        border-color: lightgrey;
+    }
 
 
 
-.bottone1{
-    color: grey;
-    width: 18%;
-    background-color: white;
-    border-radius: 8px;
-    border-color: lightgrey;
-    ;
-}
 
-.bottone2{
-    color: grey;
-    margin-left: 5px;
-    width: 20%;
-    background-color: white;
-    border-radius: 8px;
-    border-color: lightgrey;
-    ;
-}
 
 
