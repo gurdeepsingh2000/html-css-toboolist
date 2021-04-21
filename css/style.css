@@ -97,20 +97,30 @@ header{
           line-height: 18px;
           text-align: center;
           font-size: 12px;
-          color: green;
 
       }
 
-      ul{
-          list-style: none;
+      .lavoro::before{
+          content: "\25BE";
       }
 
       .circle::before {
         border-width: 20px;
       }
 
-      .lavoro::before{
-        content: "\25BE";
+      .check{
+        color: green;
+      }
+
+      ul{
+          list-style: none;
+      }
+
+
+
+
+      .task{
+          margin-bottom: 5px;
       }
 
 
