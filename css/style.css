@@ -82,20 +82,35 @@ header{
         margin-right: 10%;
         font-family: 'Coda Caption', sans-serif;
         padding: 70px 90px;
+        font-size: 26px;
       }
 
 
       .circle{
-        height: 25px;
-        width: 25px;
-        background-color: white;
-        border:1px solid green;
-        border-radius: 75%;
+          display: inline-block;
+          vertical-align: middle;
+          border-width: 1px;
+          border-style: solid;
+          border-radius: 50%;
+          width: 20px;
+          height: 20px;
+          line-height: 18px;
+          text-align: center;
+          font-size: 12px;
+          color: green;
+
       }
 
-      .dot-killer{
-        list-style: none;
-        font-size: 30px;
+      ul{
+          list-style: none;
+      }
+
+      .circle::before {
+        border-width: 20px;
+      }
+
+      .lavoro::before{
+        content:\25BE;
       }
 
 
