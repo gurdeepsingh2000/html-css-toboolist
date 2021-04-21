@@ -112,6 +112,10 @@ header{
         color: green;
       }
 
+      .mark{
+          color: red;
+      }
+
     .dot-killer{
         margin-bottom: 10px;
     }
@@ -119,8 +123,6 @@ header{
       ul{
           list-style: none;
       }
-
-
 
 
       .lavoro{
@@ -147,10 +149,14 @@ header{
           background-color: slateblue ;
       }
 
+      .recruiting{
+          background-color: rgb(68, 155, 68);
+      }
+
       .rc{
         margin-bottom: 20px;
       }
-      
+
 
 
 
