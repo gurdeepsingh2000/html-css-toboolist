@@ -153,8 +153,20 @@ header{
           background-color: rgb(68, 155, 68);
       }
 
+      .Mobile{
+          background-color: orange;
+      }
+
+      .website{
+          background-color: orchid;
+      }
+
+      .sales{
+          background-color: rgb(81, 195, 81);
+      }
+
       .rc{
-        margin-bottom: 20px;
+        margin-bottom: 30px;
       }
 
 
