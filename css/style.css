@@ -110,7 +110,23 @@ header{
       }
 
       .lavoro::before{
-        content:\25BE;
+        content: "\25BE";
+      }
+
+
+      .button-type{
+        vertical-align: middle;
+        width: 100px;
+        padding: 10px;
+        border-color: grey;
+        margin-left: 1%;
+        border-radius:35%;
+        color: white;
+        border-style: none;
+      }
+
+      .editorial{
+          background-color: rgb(33, 173, 228);
       }
 
 
